@@ -15,7 +15,7 @@ public class GoalCell extends Cell {
 	@Override
 	public String getCaption() {
 		// TODO 自動生成されたメソッド・スタブ
-		return "目的地にたどり着いた！！";
+		return "死海文書の遂行がなされた！";
 	}
 
 	@Override
